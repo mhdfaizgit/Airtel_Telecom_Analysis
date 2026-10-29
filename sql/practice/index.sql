@@ -1,0 +1,1 @@
+CREATE INDEX IF NOT EXISTS ix_order_customer ON shop_orders(customer_id);
